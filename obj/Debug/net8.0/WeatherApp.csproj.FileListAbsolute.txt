@@ -12,3 +12,4 @@ C:\Users\ELIYA\WeatherApp\obj\Debug\net8.0\refint\WeatherApp.dll
 C:\Users\ELIYA\WeatherApp\obj\Debug\net8.0\WeatherApp.pdb
 C:\Users\ELIYA\WeatherApp\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
 C:\Users\ELIYA\WeatherApp\obj\Debug\net8.0\ref\WeatherApp.dll
+C:\Users\ELIYA\WeatherApp\obj\Debug\net8.0\WeatherApp.sourcelink.json
